@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyKlimovApp</string>
+    <string name="add">Tap here</string>
+    <string name="start">0</string>
+</resources>
